@@ -1,4 +1,4 @@
-# w600 blink
+# w600 alios-things blink
 替换文件blink.c
 路径 AliOS-Things\app\example\blink\blink.c
 
